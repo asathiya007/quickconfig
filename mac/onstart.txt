@@ -2,5 +2,5 @@ Set MacBook Pro to Dark Mode
 Set Terminal profile to Basic, make front SF Mono Regular 28 pt.
 Copy and paste contents of bash_profile.txt into the ~/.bash_profile file
 Install Google Chrome
-Install vim according to the README.md file of this repo: https://github.com/amix/vimrc
+Install Vim according to the README.md file of this repo: https://github.com/amix/vimrc
 Install Homebrew at this link: https://brew.sh/
