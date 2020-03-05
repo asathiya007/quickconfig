@@ -7,4 +7,4 @@ Install Homebrew at this link: https://brew.sh/
 Install Node.js and NPM with these commands: 
 	$ brew install nvm
 	$ nvm install node
-Install Anaconda at this link: https://docs.anaconda.com/anaconda/install/mac-os/
+Install Anaconda at this link: https://www.anaconda.com/distribution/#macos
