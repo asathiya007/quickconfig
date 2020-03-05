@@ -4,3 +4,7 @@ Copy and paste contents of bash_profile.txt into the ~/.bash_profile file
 Install Google Chrome
 Install Vim according to the README.md file of this repo: https://github.com/amix/vimrc
 Install Homebrew at this link: https://brew.sh/
+Install Node.js and NPM with these commands: 
+	$ brew install nvm
+	$ nvm install node
+Install Anaconda at this link: https://docs.anaconda.com/anaconda/install/mac-os/

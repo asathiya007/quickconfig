@@ -45,3 +45,4 @@ export PS1
 
 # Alias for vi to vim
 alias vi='vim'
+
