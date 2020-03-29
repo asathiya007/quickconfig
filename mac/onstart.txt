@@ -1,10 +1,41 @@
-Set MacBook Pro to Dark Mode
-Set Terminal profile to Basic, make front SF Mono Regular 28 pt.
-Copy and paste contents of bash_profile.txt into the ~/.bash_profile file
-Install Google Chrome
-Install Vim according to the README.md file of this repo: https://github.com/amix/vimrc
-Install Homebrew at this link: https://brew.sh/
-Install Node.js and NPM with these commands: 
-	$ brew install nvm
-	$ nvm install node
-Install Anaconda at this link: https://www.anaconda.com/distribution/#macos
+Run the onstart script with the following command: ./onstart.sh 
+If errors occur, execute the individual commands below
+
+Terminal Commands
+
+# Refresh terminal (pull changes from ~/.bash_profile if necessary)
+source ~/.bash_profile
+
+# Install XCode command line tools 
+xcode-select --install
+
+# Install Homebrew
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+
+# Install Git
+brew install git
+
+# Install Node Version Manager (NVM) 
+brew install nvm
+
+# Install latest version of Node.js and NPM (refresh terminal first!)
+nvm install node
+
+# Install Visual Studio Code with this command 
+brew cask install visual-studio-code
+
+# Install Google Chrome with this command
+brew cask install google-chrome
+
+# Install Ultimate Vim Configuration from https://github.com/amix/vimrc 
+git clone --depth=1 https://github.com/amix/vimrc.git ~/.vim_runtime
+sh ~/.vim_runtime/install_awesome_vimrc.sh
+
+# Install Anaconda Distribution
+brew cask install anaconda 
+
+# Install DBeaver Community Edition 
+brew cask install dbeaver-community
+
+# Install Postman
+brew cask install postman
