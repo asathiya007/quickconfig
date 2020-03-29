@@ -12,5 +12,5 @@ Let's eliminate as much overhead of the setup process as we can and get back to 
 To see detailed instructions on how to use this software, follow the instructions outlined in the prestart.txt, onstart.txt,
 and poststart.txt documents.
 
-# TLDR 
+# Quick start 
 Clone this repo, enter the repo's main directory, and execute the onstart.sh script (the command is ./onstart.sh) to install everything and then execute the poststart.sh script (the command is ./poststart.sh) to verify all the installations. 
