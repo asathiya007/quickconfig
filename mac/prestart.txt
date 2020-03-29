@@ -1,2 +1,3 @@
 Set MacBook Pro to Dark Mode
-Set Terminal profile to Basic, make front SF Mono Regular 28 pt.
+Set Terminal profile to Basic, make default font SF Mono Regular 28 pt.
+Check out onstart.txt

@@ -26,7 +26,6 @@ Customize VS Code
     - Java Test Runner 
     - Language Support for Java(TM) by Red Hat
     - Maven for Java 
-    - SQLTools - Database tools
 
 Customize Google Chrome 
 - Sign in with your Google account 
@@ -35,8 +34,15 @@ Customize Google Chrome
     - React Developer Tools 
     - Redux DevTools 
 
+Customize DBeaver 
+- Set the default font size of the SQL editor to 28 
+
+Customize TextEdit
+- Set the default font size to 28
+
 Run the poststart.sh script with the following command: ./poststart.sh
-If errors occur, execute the individual commands below: 
+If errors occur, execute the individual commands below
+Otherwise, you're all good to go, happy coding
 
 Terminal commands
 

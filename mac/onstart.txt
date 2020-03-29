@@ -1,5 +1,6 @@
 Run the onstart script with the following command: ./onstart.sh 
 If errors occur, execute the individual commands below
+Check out poststart.txt
 
 Terminal Commands
 
