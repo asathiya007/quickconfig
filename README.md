@@ -4,7 +4,7 @@ software developer. Configuring all of this when you get a new computer (persona
 
 Not to worry, I have written shell scripts to automate most of the setup process!
 
-Please feel free to use this to speed up your setup, and if you have any ideas about how to improve the scripts or the setup, 
+Please feel free to use this to speed up your setup. If you have any ideas about how to improve the scripts or the setup, 
 please feel free to open up a pull request and share it with me! 
 
 Let's eliminate as much overhead of the setup process as we can and get back to what we coders do best: writing code! 
