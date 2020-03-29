@@ -10,7 +10,9 @@ please feel free to open up a pull request and share it with me!
 Let's eliminate as much overhead of the setup process as we can and get back to what we coders do best: writing code! 
 
 # Get started
+Clone this repo, then enter the repo's main directory, then enter the directory corresponding to your type of computer. 
+
 To see detailed instructions on how to use this software, follow the instructions outlined in the prestart.txt, onstart.txt,
 and poststart.txt documents.
 
-To get started right away, do the following: clone this repo, enter the repo's main directory, enter the directory corresponding to the type of computer you have (mac, windows, or linux) and execute the onstart.sh script (the command is ./onstart.sh) to install everything and then execute the poststart.sh script (the command is ./poststart.sh) to verify all the installations. 
+To get started right away execute the onstart.sh script (the command is ./onstart.sh) to install everything and then execute the poststart.sh script (the command is ./poststart.sh) to verify all the installations. 
