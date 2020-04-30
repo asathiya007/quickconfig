@@ -38,10 +38,11 @@ printf "\n-------Installed Node Version Manager (NVM)-------\n"
 # Refresh terminal (pull changes from ~/.bash_profile)
 source ~/.bash_profile
 
-# Install Node.js and NPM
-printf "\n-------Installed Node.js and NPM -------\n"
+# Install latest Node.js and NPM
+printf "\n-------Installed latest Node.js and NPM -------\n"
 nvm install node
-printf "\n-------Installed Node.js and NPM -------\n"
+nvm use node
+printf "\n-------Installed latest Node.js and NPM -------\n"
 
 # Refresh terminal (pull changes from ~/.bash_profile)
 source ~/.bash_profile
