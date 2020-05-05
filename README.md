@@ -1,4 +1,4 @@
-# akshayconfig
+# quickconfig
 A quick way to set up your new computer. I have used all sorts of software in my work as a computer science student and a
 software developer. Configuring all of this when you get a new computer (personal or work) can be very tiring and cumbersome.
 
