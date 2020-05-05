@@ -21,3 +21,6 @@ TBD
 
 # Get started (Linux)
 TBD
+
+# Collaboration
+I would love to have other collaborators on this project. Feel free to shoot me a message at 925-548-7652 or akshay.sathiya@gmail.com with your GitHub username and I can add you as a collaborator to this project. 
