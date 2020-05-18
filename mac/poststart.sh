@@ -24,6 +24,12 @@ printf "Git version: "
 git --version 
 printf "\n-------Verified Git-------\n"
 
+# Verify Mercurial
+printf "\n-------Verifying Mercurial-------\n\n"
+printf "Mercurial version: "
+hg --version 
+printf "\n-------Verified Git-------\n"
+
 # Verify Node Version Manager
 printf "\n-------Verifying Node Version Manager (NVM)-------\n\n"
 printf "Node Version Manager (NVM) version: "

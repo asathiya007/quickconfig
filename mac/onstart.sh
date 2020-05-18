@@ -27,6 +27,11 @@ printf "\n-------Installing Git-------\n\n"
 brew install git
 printf "\n-------Installed Git-------\n" 
 
+# Install Mercurial 
+printf "\n-------Installing Mercurial-------\n\n" 
+brew install mercurial
+printf "\n-------Installed Mercurial-------\n" 
+
 # Refresh terminal (pull changes from ~/.bash_profile)
 source ~/.bash_profile
 
